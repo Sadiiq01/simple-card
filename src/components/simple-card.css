@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.parent{
+    background-color: whitesmoke;
+    padding: 60px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.616);
+}
+
+img {
+    width: 200px ; 
+    height: 165px;
+}
